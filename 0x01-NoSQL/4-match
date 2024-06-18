@@ -1,1 +1,2 @@
+// find matching documents
 db.collections.find({"name" : "Holberton school"})

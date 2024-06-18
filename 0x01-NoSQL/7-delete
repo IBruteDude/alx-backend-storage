@@ -1,1 +1,2 @@
+// delete matching documents
 db.collections.deleteMany({name : "Holberton school"})
